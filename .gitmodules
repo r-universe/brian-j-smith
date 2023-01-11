@@ -8,3 +8,8 @@
 	url = https://github.com/brian-j-smith/machineshop
 	shallow = true
 	registered = true
+[submodule "MRMCaov"]
+	path = MRMCaov
+	url = https://github.com/brian-j-smith/mrmcaov
+	shallow = true
+	registered = true
