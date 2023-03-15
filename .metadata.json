@@ -1,10 +1,10 @@
 [
   {
-    "package": "MRMCaov",
+    "package": "MachineShop",
     "oncran": true
   },
   {
-    "package": "MachineShop",
+    "package": "MRMCaov",
     "oncran": true
   }
 ]
