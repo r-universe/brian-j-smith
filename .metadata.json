@@ -1,5 +1,9 @@
 [
   {
+    "package": "boa",
+    "oncran": true
+  },
+  {
     "package": "MachineShop",
     "oncran": true
   },
