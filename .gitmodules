@@ -18,3 +18,8 @@
 	url = https://github.com/brian-j-smith/mrmcaov
 	shallow = true
 	registered = true
+[submodule "ramps"]
+	path = ramps
+	url = https://github.com/cran/ramps
+	shallow = true
+	registered = true
