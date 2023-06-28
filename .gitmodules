@@ -1,25 +1,16 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "boa"]
 	path = boa
 	url = https://github.com/brian-j-smith/boa
-	shallow = true
-	registered = true
 [submodule "MachineShop"]
 	path = MachineShop
 	url = https://github.com/brian-j-smith/machineshop
-	shallow = true
-	registered = true
 [submodule "MRMCaov"]
 	path = MRMCaov
 	url = https://github.com/brian-j-smith/mrmcaov
-	shallow = true
-	registered = true
 [submodule "ramps"]
 	path = ramps
 	url = https://github.com/cran/ramps
-	shallow = true
-	registered = true
